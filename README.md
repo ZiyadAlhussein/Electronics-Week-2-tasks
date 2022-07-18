@@ -1,2 +1,2 @@
-# Tasks_week2
-Task1: Servo Motor, Task2: Stepper Motor, Task3: Brushless Motor.
+# Electrical Tasks week 2
+Task 1: Servo Motor, Task 2: Stepper Motor, Task 3: Brushless Motor.
