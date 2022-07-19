@@ -2,7 +2,7 @@
 **Task 1: Servo Motor Simulation with arduino**  
 (https://www.tinkercad.com/things/b2JdpbFsfw2)
 
-**1. Make an account in TinkerCAD for Arduino simulations: https://www.tinkercad.com/
+**1. Make an account in TinkerCAD for Arduino simulations: https://www.tinkercad.com/ **
 
   1) Click Sign Up on the Tinkercad homepage.
   2) Choose your country from the drop-down list.
@@ -11,7 +11,7 @@
   5) Add your email address and a password, accept the Tinkercad terms of service, and click Create Account.
   
   
-**2. Building the Servo Motor:
+**2. Building the Servo Motor: **
 
   1) Click on create new Circuit.
   2) From the search tool, get: Breadboard (small), Arduino uno r3, and Micro servo.
