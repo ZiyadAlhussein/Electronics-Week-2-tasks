@@ -33,7 +33,7 @@
   
   ![image](https://user-images.githubusercontent.com/108147030/179868781-a81d2b68-bf3f-4582-82a7-25f45aee57ca.png)
 
-  15) You can use the following arduino code to run the simulation.
+  15) You can use the following code to run the simulation.
   
   ```ruby
   #include <Stepper.h>
