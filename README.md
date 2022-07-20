@@ -18,7 +18,7 @@
   3) Connect a wire from the GND (ground) of the arduino to the negative sign column in the breadboard, Connect the ground from the servo moter to the negative sign column in the breadboard.
   4) Connect a wire to the power from the servo motor to 5V in the arduino.
   5) Connect a wire to the signal from the servo motor to pin 9 in the arduino.
-  6) You can either use the following arduino code or a block diagram to run the simulation.
+  6) You can either use the following code or a block diagram to run the simulation.
   
   ![image](https://user-images.githubusercontent.com/108147030/179870748-6e96544a-ab81-48e7-b874-f8d47a334a84.png)
 
