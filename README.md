@@ -19,12 +19,11 @@
   4) Connect a wire to the power from the servo motor to 5V in the arduino.
   5) Connect a wire to the signal from the servo motor to pin 9 in the arduino.
   6) You can either use the following arduino code or a block diagram to run the simulation.
-  7) Click on start Simulation.
   
-// C++ code
+  ![image](https://user-images.githubusercontent.com/108147030/179870748-6e96544a-ab81-48e7-b874-f8d47a334a84.png)
 
-//
 
+```ruby
 #include <Servo.h>
 
 int position = 0;
@@ -49,6 +48,6 @@ void loop()
     servo_9.write(position);
   }
 }
-  
+  ```
   ![image](https://user-images.githubusercontent.com/108147030/179791824-f81a187b-b5d3-4e64-a53e-bab70c83a9e1.png)
-
+7) Click on start Simulation.
