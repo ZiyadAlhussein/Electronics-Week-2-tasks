@@ -35,6 +35,7 @@
 
   15) You can use the following arduino code to run the simulation.
   
+  ```ruby
   #include <Stepper.h>
 
 const int stepsPerRevolution = 120;
@@ -65,6 +66,8 @@ void loop()
     
     Serial.println(sensorReading);
   }
+  
 }
+```
   16) Click on start Simulation.
   
