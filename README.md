@@ -37,7 +37,7 @@ void loop()
 }
   ```
   
-  ![image](https://user-images.githubusercontent.com/108147030/179870748-6e96544a-ab81-48e7-b874-f8d47a334a84.png)
+![image](https://user-images.githubusercontent.com/108147030/180015531-4026b490-5d56-4138-82cb-196ce402c1cf.png)
 
 7) Click on start Simulation.
 
